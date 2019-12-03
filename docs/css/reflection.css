@@ -1,9 +1,18 @@
+.emoji .container,
+.learning-goals .container,
+.reflection-editor .container {
+    padding: 40px;
+    margin-top: 30px;
+    background: #FAFAFA;
+    box-shadow: 0px 0px 10px rgba(99, 123, 150, 0.2);
+    border-radius: 20px;
+}
+
 .step-introduction {
-    margin: 50px 0px 0px 0px;
+    padding: 50px 0px 0px 0px;
 }
 
 h4 {
-    margin-top: 30px;
     color: #4377F1;
     font-weight: bold;
 }

@@ -2,221 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b57ecac0-0121-42a3-8452-29b447b0a691" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1after-reflection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1cover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1homepage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1mind-palace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1profile-all-proj.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1proj-overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1reflection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/1report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/about-01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/about-02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/acknowledgement.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/bootsnav/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/bootsnav/css/bootsnav.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/bootsnav/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/bootsnav/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/bootsnav/js/bootsnav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/bootsnav/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/counterup/jquery.counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/imagesloaded/imagesloaded.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/isotope/isotope.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/magnific/css/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/magnific/js/jquery.magnific-popup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/masonry/masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/match-height/jquery.matchHeight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/selectboxit/css/jquery.selectBoxIt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/selectboxit/js/jquery.selectBoxIt.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/stellar/jquery.stellar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/themify-icons/fonts/themify.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/themify-icons/fonts/themify.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/themify-icons/fonts/themify.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/themify-icons/fonts/themify.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/themify-icons/themify-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/thumb_Gallery/css/jquery.mb.thumbgallery.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/thumb_Gallery/js/jquery.mb.thumbGallery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/thumb_Gallery/js/jquery.mb.thumbGallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/typed_js/typed-need.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/typed_js/typed.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/vide/jquery.vide.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/video-popup/popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/video-popup/popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/assets/waypoints/waypoints.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/blog-01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/blog-02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/blog-03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/blog-single-02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/blog-single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/canvas.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/contact-01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/contact-02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/contact-03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/contact_form/class.phpmailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/contact_form/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/1e7b63404cd2fb8e6525b2fd4ee4d286.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/acknowledgement.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/canvas.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/cover.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/homepage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/media.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/newcontact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/proj-overview.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/quill-emoji.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/reflection.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/css/swiper.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/elements.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/header-logo-center.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/header-mega-menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/header-menu-left.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/header-side-menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/about-side.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/android-store.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/apple-store.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/arrow1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/arrow2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/blog-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/blog-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/blog-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/brainstorm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/bulb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/contact-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/digital-camera.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/dots.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emoji.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/emojis/emoji9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/film-stripe.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/flash-cam-1.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/flash-cam.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/gallery-o-1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/gallery-o-2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/gp13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/homepage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/ideation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/inner-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/marker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/new-step.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/next-nav.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/pf1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/pf9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/play-button.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/progress-bar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/project-cover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/research.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/research1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/ser-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/slier-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/slier-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/sun.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/t-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/team-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/up-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/up-arrow1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/images/user.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/index-01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/index-02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/index-03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/index-04.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/index-05.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/acknowledgement.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/contact.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/esign.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/html2canvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/newcontact.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/paper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/quill-emoji.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/reflection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/js/swiper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/newcontact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/portfolio-01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/portfolio-02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/portfolio-03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/portfolio-04.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/privacy-policy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/sign-in.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/sign-up.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/team.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/typography.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/video/video.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/video/video.ogv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mainfile/video/video.webm" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/1after-reflection.html" afterPath="$PROJECT_DIR$/docs/1after-reflection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/1cover.html" afterPath="$PROJECT_DIR$/docs/1cover.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/1proj-overview.html" afterPath="$PROJECT_DIR$/docs/1proj-overview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/1reflection.html" afterPath="$PROJECT_DIR$/docs/1reflection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/cover.css" afterPath="$PROJECT_DIR$/docs/css/cover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/reflection.css" afterPath="$PROJECT_DIR$/docs/css/reflection.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/style.css" afterPath="$PROJECT_DIR$/docs/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -230,12 +23,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="189" column="53" lean-forward="false" selection-start-line="189" selection-start-column="53" selection-end-line="189" selection-end-column="53" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1proj-overview.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/1proj-overview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="187" column="22" lean-forward="true" selection-start-line="187" selection-start-column="22" selection-end-line="187" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1reflection.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/1reflection.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="468" column="9" lean-forward="true" selection-start-line="468" selection-start-column="9" selection-end-line="468" selection-end-column="9" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="643">
+              <caret line="1756" column="22" lean-forward="true" selection-start-line="1756" selection-start-column="22" selection-end-line="1756" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1profile-all-proj.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/1profile-all-proj.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/css/homepage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reflection.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/css/reflection.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1after-reflection.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/1after-reflection.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="177" column="53" lean-forward="false" selection-start-line="177" selection-start-column="53" selection-end-line="177" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1cover.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/1cover.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="136" column="12" lean-forward="false" selection-start-line="136" selection-start-column="16" selection-end-line="143" selection-end-column="22" />
+              <folding>
+                <marker date="1575399359075" expanded="true" signature="5603:5997" ph="..." />
+                <marker date="1575399359075" expanded="true" signature="5658:5795" ph="..." />
+                <marker date="1575399359075" expanded="true" signature="5862:5971" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cover.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/css/cover.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <marker date="1575399359065" expanded="true" signature="430:588" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -253,7 +146,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>2.</find>
       <find>con</find>
       <find>service-body</find>
       <find>inner-banner</find>
@@ -281,8 +173,9 @@
       <find>headico</find>
       <find>.container</find>
       <find>hide</find>
-      <find>footer</find>
       <find>nav</find>
+      <find>footer</find>
+      <find>input</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -326,7 +219,14 @@
         <option value="$PROJECT_DIR$/mainfile/1profile-all-proj.html" />
         <option value="$PROJECT_DIR$/mainfile/1report.html" />
         <option value="$PROJECT_DIR$/mainfile/1cover.html" />
+        <option value="$PROJECT_DIR$/docs/1proj-overview.html" />
+        <option value="$PROJECT_DIR$/docs/1after-reflection.html" />
         <option value="$PROJECT_DIR$/docs/index.html" />
+        <option value="$PROJECT_DIR$/docs/css/reflection.css" />
+        <option value="$PROJECT_DIR$/docs/css/style.css" />
+        <option value="$PROJECT_DIR$/docs/css/cover.css" />
+        <option value="$PROJECT_DIR$/docs/1cover.html" />
+        <option value="$PROJECT_DIR$/docs/1reflection.html" />
       </list>
     </option>
   </component>
@@ -369,6 +269,12 @@
               <item name="LMD prototype" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LMD prototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LMD prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -404,26 +310,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.1cover.html">
-    <configuration name="1after-reflection.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/mainfile/1after-reflection.html" />
+  <component name="RunManager" selected="JavaScript Debug.1cover.html (1)">
+    <configuration name="1after-reflection.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1after-reflection.html" />
+    <configuration name="1cover.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1cover.html" />
     <configuration name="1cover.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/mainfile/1cover.html" />
-    <configuration name="1proj-overview.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/mainfile/1proj-overview.html" />
-    <configuration name="1reflection.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/mainfile/1reflection.html" />
-    <configuration name="reflection.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="reflection.js" working-dir="$PROJECT_DIR$/mainfile/js" />
+    <configuration name="1proj-overview.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1proj-overview.html" />
+    <configuration name="1reflection.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1reflection.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.1proj-overview.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.1reflection.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.reflection.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.1after-reflection.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.1proj-overview.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.1after-reflection.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.1reflection.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.1after-reflection.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.1proj-overview.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.1reflection.html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.reflection.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.1reflection.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.1after-reflection.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.1proj-overview.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html" />
       </list>
     </recent_temporary>
   </component>
@@ -454,12 +360,12 @@
       <workItem from="1574904144426" duration="7526000" />
       <workItem from="1574912402880" duration="736000" />
       <workItem from="1574979980901" duration="39047000" />
-      <workItem from="1575357136539" duration="38000" />
+      <workItem from="1575357136539" duration="3124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71006000" />
+    <option name="totallyTimeSpent" value="74092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -494,45 +400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mainfile/images/slier-01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainfile/images/inner-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainfile/images/about-side.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainfile/blog-03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="560" column="76" lean-forward="false" selection-start-line="560" selection-start-column="76" selection-end-line="560" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainfile/images/1.png" />
-    <entry file="file://$PROJECT_DIR$/mainfile/images/2.png" />
-    <entry file="file://$PROJECT_DIR$/mainfile/hompage.html" />
-    <entry file="file://$PROJECT_DIR$/mainfile/newcontact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" column="39" lean-forward="false" selection-start-line="90" selection-start-column="36" selection-end-line="90" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainfile/acknowledgement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="72" lean-forward="false" selection-start-line="85" selection-start-column="72" selection-end-line="85" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mainfile/prototype/login.html" />
     <entry file="file://$PROJECT_DIR$/mainfile/prototype/homepage.html" />
     <entry file="file://$PROJECT_DIR$/mainfile/404.html">
@@ -783,10 +650,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
+    <entry file="file://$PROJECT_DIR$/docs/1proj-overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="187" column="22" lean-forward="true" selection-start-line="187" selection-start-column="22" selection-end-line="187" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/1profile-all-proj.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="189" column="53" lean-forward="false" selection-start-line="189" selection-start-column="53" selection-end-line="189" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/1after-reflection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="177" column="53" lean-forward="false" selection-start-line="177" selection-start-column="53" selection-end-line="177" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/cover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <marker date="1575399359065" expanded="true" signature="430:588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/1cover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="136" column="12" lean-forward="false" selection-start-line="136" selection-start-column="16" selection-end-line="143" selection-end-column="22" />
+          <folding>
+            <marker date="1575399359075" expanded="true" signature="5603:5997" ph="..." />
+            <marker date="1575399359075" expanded="true" signature="5658:5795" ph="..." />
+            <marker date="1575399359075" expanded="true" signature="5862:5971" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/reflection.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/1reflection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="468" column="9" lean-forward="true" selection-start-line="468" selection-start-column="9" selection-end-line="468" selection-end-column="9" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="1756" column="22" lean-forward="true" selection-start-line="1756" selection-start-column="22" selection-end-line="1756" selection-end-column="29" />
           <folding />
         </state>
       </provider>

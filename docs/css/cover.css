@@ -21,13 +21,13 @@
     margin-top: 20px;
 }
 
-#hour-input {
-    margin-top: 10px;
-    background: #F5F6FA;
-    border: 2px solid #637B96;
-    box-sizing: border-box;
-    border-radius: 20px;
-}
+/*#hour-input {*/
+    /*margin-top: 10px;*/
+    /*background: #F5F6FA;*/
+    /*border: 2px solid #637B96;*/
+    /*box-sizing: border-box;*/
+    /*border-radius: 20px;*/
+/*}*/
 
 .back-btn {
     margin: 50px 0px 20px 0px;
@@ -35,8 +35,8 @@
     border-radius: unset;
     box-shadow: unset;
     color: gray;
-    background-color: white;
-    border-color: white;
+    background-color: #F5F6FA;
+    border-color: #F5F6FA;
     width: 60%;
     line-height: 50px;
     font-size: 17px;
