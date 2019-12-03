@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b57ecac0-0121-42a3-8452-29b447b0a691" name="Default" comment="" />
+    <list default="true" id="b57ecac0-0121-42a3-8452-29b447b0a691" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/css/jquery.mCustomScrollbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/arrow-slide.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/bg-left-panel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/bg-master.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/bg-menu-primary.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/bg-panel-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/envato.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/logo-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/slide-toggle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/thms1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/thms2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/thms3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/img/tweet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/jquery-ui-1.8.23.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/jquery.mCustomScrollbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/ss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shAutoloader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushAS3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushAppleScript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushBash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushCSharp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushColdFusion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushCpp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushCss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushDelphi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushDiff.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushErlang.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushGroovy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushJScript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushJava.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushJavaFX.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushPerl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushPhp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushPlain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushPowerShell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushPython.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushRuby.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushSass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushScala.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushSql.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushVb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shBrushXml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/scripts/shLegacy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCore.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCoreDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCoreEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCoreEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCoreFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCoreMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCoreMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shCoreRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shThemeDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shThemeDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shThemeEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shThemeEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shThemeFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shThemeMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shThemeMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/res/js/syntax-highlighter/styles/shThemeRDark.css" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +85,8 @@
       <file leaf-file-name="1reflection.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainfile/1reflection.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+            <state relative-caret-position="379">
+              <caret line="118" column="35" lean-forward="false" selection-start-line="118" selection-start-column="35" selection-end-line="118" selection-end-column="35" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -261,12 +329,12 @@
       <workItem from="1574270607266" duration="694000" />
       <workItem from="1574904144426" duration="7526000" />
       <workItem from="1574912402880" duration="736000" />
-      <workItem from="1574979980901" duration="38839000" />
+      <workItem from="1574979980901" duration="39047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70760000" />
+    <option name="totallyTimeSpent" value="70968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -674,8 +742,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mainfile/1reflection.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+        <state relative-caret-position="379">
+          <caret line="118" column="35" lean-forward="false" selection-start-line="118" selection-start-column="35" selection-end-line="118" selection-end-column="35" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
