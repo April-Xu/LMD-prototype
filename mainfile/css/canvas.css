@@ -1,0 +1,44 @@
+.pb-100 {
+    padding-bottom:20px !important;
+}
+
+#funny {
+    height:400px;
+}
+
+#button{
+    margin-top: 55%;
+}
+
+.inner-banner.about-01 {
+    background-image: url("../images/android-store.png") !important;
+
+}
+
+#canvasEdit {
+    height: 400px;
+    width: 490px;
+    background-color: #ffffff !important;
+}
+
+#canvas_background {
+    height: 500px;
+}
+
+.col-md-8 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.col-md-1 {
+    padding-left: 33.34px;
+    padding-right: 0px;
+}
+
+.service-inner-wrapper{
+    padding: 0 0 0 !important;
+}
+
+.contact-db-wrapper{
+    padding-top: 100px !important;
+}

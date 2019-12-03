@@ -1,0 +1,152 @@
+.step-introduction {
+    margin: 50px 0px 0px 0px;
+}
+
+h4 {
+    margin-top: 30px;
+    color: #4377F1;
+    font-weight: bold;
+}
+.head-card .row{
+    margin: 30px 0px 10px 0px;
+}
+
+.card .row{
+    margin: 20px 00px 10px 0px;
+}
+
+#editor {
+    min-height: 300px;
+    margin: 0px 0px 20px 0px;
+}
+
+.default-emoji {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.default-emoji:hover {
+    border-radius: 50%;
+    box-shadow: 0 0 10px 0 #FFB352;
+}
+
+.emoji-list {
+    padding: 30px 0px 30px 0px;
+}
+
+.emoji-list a img{
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+}
+
+.emoji-list a:hover img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px 0 #FFB352;
+}
+
+.emoji-list .current-emoji img {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px 0 #FFB352;
+}
+
+.goal-btn {
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.learning-goals a:hover{
+    color:#FFB352;
+}
+
+.record-btn {
+    border: 1px solid #EF9B4A;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    width: 14%;
+    height: 55px;
+    color: #EF9B4A;
+}
+
+.continue-btn {
+    margin: 90px 0px 20px 0px;
+    background-color: #4377F1;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    color: white;
+    width: 30%;
+    line-height: 50px;
+    font-size: 17px;
+}
+
+#progress1, #progress2, #progress3 {
+    position: relative;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.progress-bar {
+    position: absolute;
+    width: 100%;
+    background: #EEEAE7;
+    height: 6px;
+    border-radius: 2px;
+    z-index: 1;
+    transition: all .3s;
+    -webkit-box-shadow: unset;
+}
+.progress-cur {
+    position: absolute;
+    background: #FFB352;
+    height: 6px;
+    width: 0%;
+    border-radius: 5px;
+    z-index: 2;
+    transition: all .3s;
+}
+.progress-btn {
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    background: #FFFFFF; box-shadow: 0 0 15px 5px #FFB352;
+    border-radius: 50%;
+    z-index: 3;
+    transition: all .3s;
+}
+
+#progress1 .progress-btn {
+    left: 20%;
+}
+
+#progress2 .progress-btn {
+    left: 80%;
+}
+
+#progress3 .progress-btn {
+    left: 40%;
+}
+
+#progress1 .progress-cur {
+    width: 20%;
+}
+
+#progress2 .progress-cur {
+    width: 80%;
+}
+
+#progress3 .progress-cur {
+    width: 40%;
+}
+
+.progress-btn:hover,
+.progress-btn.playing {
+    box-shadow: 0 0 10px 0 #FFB352;
+}

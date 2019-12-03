@@ -1,0 +1,805 @@
+/*-------------------------------------------------------------------------------------
+Theme Name: Photomania
+Theme URI:  
+Version:    1.0
+Author: TrueCoder
+-------------------------------------------------------------------------------------
+ RESPONSIVE STYLES
+-------------------------------------------------------------------------------------*/
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and (max-width: 1199px) and (min-width: 1024px)
+{
+	.home-page-varient li
+	{
+		width: 27.3%;
+		height: 295px;
+	}
+	.main-header .navbar-transparent .navbar-brand
+	{
+		width: 235px;
+	}
+}
+/* Large devices (large desktops, 1024px and up) */
+@media screen and (max-width: 1024px) and (min-width: 991px)
+{
+	/*==================================
+		landing page
+	====================================*/
+	.home-page-varient li
+	{
+		width: 27.3%;
+		height: 295px;
+	}
+	.banner-wrapper
+	{
+		height: 500px;
+	}
+	.slider-option
+	{
+		height: auto;
+	}
+	.navbar-transparent .navbar-brand > img.logo-scrolled
+	{
+		display: none !important;
+	}
+	.navbar-brand > img.logo-display
+	{
+		display: none !important;
+	}
+	.navbar-brand
+	{
+		padding: 0px;
+	}
+	.navbar-brand img
+	{
+		padding: 0px;
+		width: 160px;
+	}
+	.navbar-transparent .navbar-brand > img.logo-display
+	{
+		display: block !important;
+		width: 280px;
+	}
+}
+/* Medium devices (desktops, 992px and up) */
+@media screen and (max-width: 991px) and (min-width: 767px)
+{
+	.main-header .navbar-default.navbar-transparent
+	{
+		background: #fff !important;
+	}
+	.main-header .navbar-transparent .navbar-brand
+	{
+		width: 210px;
+		padding:0 15px;
+	}
+	.main-header .navbar-brand
+	{
+		padding:0 15px;	
+	}
+	.main-header .navbar-default.navbar-transparent ul.nav li a
+	{
+		color: #000 !important;
+	}
+	.main-header .navbar-default.navbar-transparent ul.nav > li > a
+	{
+		padding:12px 0px !important;
+		border-bottom: 0px;
+	}
+	.slider-option
+	{
+		height: 80%;
+	}
+	.slider-option .swiper-container .swiper-slide .banner-content
+	{
+		left: 70px;
+	}
+	/*about-home content*/
+	.about-content
+	{
+		text-align: center;
+	}
+	.video-tour-about img
+	{
+		width: 80%;
+		margin: 0 auto;
+	}
+	/*end  of about*/
+
+	/*counter*/
+	.counter .media-body h1
+	{
+		font-size: 30px;
+	}
+	.counter .media-body h4
+	{
+		font-size: 13px;
+	}
+	.media-body img
+	{
+		width: 50px;
+	}
+	/*end of counter*/
+
+	/*quote*/
+	.get-quote .form-inline a
+	{
+		margin-top: 20px;
+	}
+	/*end of quote*/
+
+	/*==================================
+		landing page
+	====================================*/
+	.home-page-varient li
+	{
+		width: 25.3%;
+		height: auto;
+	}
+	.landing-sec h1
+	{
+		font-weight: 200;
+    	font-size: 35px;
+	}
+
+	/*==================================
+		typing-banner-page
+	====================================*/
+
+	.service li h3
+	{
+		font-size: 20px;
+	}
+
+	/*==================================
+		image-banner-page
+	====================================*/
+	.banner-wrapper
+	{
+		height: 500px;
+		margin: 0px 50px;
+	}
+	
+
+	/*==================================
+	  modern banner page
+	 ====================================*/
+	 .video-des-sec h1
+	 {
+	 	font-size: 30px;
+	 }
+	 nav.bootsnav.brand-center.small-logo .navbar-collapse .col-half.left
+	 {
+	 	padding-right: 0px !important;
+	 }
+	 nav.bootsnav.brand-center.small-logo .navbar-collapse .col-half.right
+	 {
+	 	padding-left: 0px !important;
+	 }
+	 .service-cam
+	 {
+	 	height: 650px;
+	 	margin-top: 100px;
+	 }
+
+	/*==================================
+	 about-01
+	 ====================================*/
+	 .explore-our-world .service-explore li
+	 {
+	 	height: auto;
+	 	width: calc(100% / 3 - 7px);
+	 }
+	 .inner-banner.about-01 .extra-font h1
+	 {
+	 	mix-blend-mode:screen;
+	 }
+	 /*==================================
+	   about #2 page
+	   ==================================*/
+	 .boxed-services li
+	 {
+	 	padding: 20px;
+	 }
+	 .boxed-services li .service-icons
+	 {
+	 	width: 30%;
+	 	display: block;
+	 	margin-bottom: 20px;
+	 }
+	 .boxed-services li .service-describtion
+	 {
+	 	width: 100%;
+	 	margin-left: 0px;
+	 }
+ 	/*==================================
+	  blog
+	  =================================*/
+	  .recent-side-post img
+	  {
+	  	width: 100%;
+	  	margin-bottom: 10px;
+	  }
+	  .recent-side-post span
+	  {
+	  	width: 100%;
+	  	padding-left: 0px;
+	  }
+	  .search-side input
+	  {
+	  	width: 85%;
+	  }
+	  .search-side span
+	  {
+	  	width: 20px;
+	  }
+	  .side-category ul li a
+	  {
+	  	font-size: 10px;
+	  }
+	
+	/*==================================
+		service page  
+	  =================================*/
+	  .pricing-inner-wrapper h2
+	  {
+	  	font-size: 25px;
+	  }
+
+	/*==================================
+		contact page  
+	  =================================*/
+	  ul.bottom-address li
+	  {
+	  	width: 33.3%;
+	  	float: left;
+	  }	  
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media screen and (max-width: 767px)
+{
+	.clean-padding
+	{
+		padding: 20px 0 !important
+	}
+	.slider-option
+	{
+		margin-top:55px;
+	}
+	.main-header .navbar-default.navbar-transparent
+	{
+		background: #fff !important;
+	}
+	.main-header .navbar-transparent .navbar-brand
+	{
+		width: 210px;
+		padding:0 15px;
+	}
+	.main-header .navbar-brand
+	{
+		padding:0 15px;	
+	}
+	.main-header .navbar-default.navbar-transparent ul.nav li a
+	{
+		color: #000 !important;
+	}
+	.main-header .navbar-default.navbar-transparent ul.nav > li > a
+	{
+		padding:12px 0px !important;
+		border-bottom: 0px;
+	}
+	.caption-head
+	{
+		padding:20px 0;
+	}
+
+	/*general-ui*/
+	h1
+	{
+		font-size:25px;
+	}
+	h2
+	{
+		font-size:22px;
+	}
+	p
+	{
+		font-size: 12px;
+	}
+	h3
+	{
+		font-size: 17px;
+	}
+	label.bottom-caption
+	{
+		font-size: 15px;
+	}
+	ul, ol
+	{
+		padding-left: 20px;
+	}
+
+	/*==================================
+		landing page
+	====================================*/
+	.home-page-varient li
+	{
+		width: 44%;
+		height: auto;
+		margin: 2.5%;
+	}
+	.landing-sec h1
+	{
+		font-weight: 200;
+    	font-size: 25px;
+	}
+	.landing-page-cover
+	{
+		height: 300px !important;
+	}
+
+	/*about-home content*/
+	.about-content
+	{
+		text-align: center;
+	}
+	.about-home
+	{
+		padding: 50px 0;
+	}
+	/*end  of about*/
+	.counter .media-body h4
+	{
+		margin-top: 10px;
+		margin-bottom: 40px;
+	}
+	.counter-wrapper
+	{
+		margin: 10px 0;
+	}
+	.get-quote .form-inline .form-group
+	{
+		max-width: 100%	;
+		margin: 10px 0;
+	}
+	.al-rights-wrap
+	{
+		text-align: center;
+	}
+	.foot-right
+	{
+		text-align: center;
+	}
+	.slider-option, .slider-option .swiper-container
+	{
+		height: auto;
+	}
+	.main-slider-btn
+	{
+		border:0px;
+	}
+	.swiper-button-next, .swiper-button-prev
+	{
+		top: 90%
+	}
+
+	/*==================================
+	  typed banner page
+	 ====================================*/
+	 .service li
+	 {
+	 	width: calc(100% / 2);
+	 	border-bottom: 1px solid;
+	 	padding:20px;
+	 }
+
+	 .service li h3 span
+	 {
+	 	display: block;
+	 }
+
+	 .service .service-body
+	 {
+	 	padding-top: 20px;
+	 }
+	 .service li:nth-child(2n+2)
+	 {
+	 	border-right: 0px;
+	 }
+	 .service li:nth-child(3n+3),
+	 .service li:nth-child(4n+4)
+	 {
+	 	border-bottom: 0px;
+	 }
+	 	span#typed
+	{
+		font-size: 25px;
+	}
+
+	/*==================================
+		image-banner-page
+	====================================*/
+	.banner-wrapper
+	{
+		height: 400px;
+		margin: 0px 50px;
+	}
+		.center-img > img
+	{
+		width: 90%;
+	}
+		.no-shadow .counter-item
+	{
+		border-right: 0px;
+		border-bottom: 1px solid #ccc;
+		padding-top: 30px;
+	}
+	.counter-wrapper.no-shadow .col-sm-3:last-child .counter-item
+	{
+		border-bottom: 0px;
+	}
+
+	/*==================================
+		video-banner-page
+	====================================*/
+	.gallery-slider
+	{
+		padding: 20px 0;
+	}
+	.testimonial
+	{
+		padding-bottom: 20px;
+	}
+	.our-team figure.team-wrap img
+	{
+		width: 100%;
+	}
+	/*==================================
+	  modern banner page
+	 ====================================*/
+	 .about-modern
+	 {
+	 	padding: 0px;
+	 }
+	 .video-img-sec
+	 {
+	 	width: 100%;
+	 	height: 300px;
+	 }
+	 .video-des-sec
+	 {
+	 	width: 100%;
+	 }
+	 .gallery-isotop
+	 {
+	 	padding-bottom: 0px;
+	 }
+	 .gallery-isotop li
+	 {
+	 	padding-bottom: 30px;
+	 }
+	 .service-modern
+	 {
+	 	padding: 80px 0;
+	 }
+
+	 nav.bootsnav.brand-center.small-logo .navbar-collapse .col-half.left
+	 {
+	 	padding-right: 0px !important;
+	 }
+	 nav.bootsnav.brand-center.small-logo .navbar-collapse .col-half.right
+	 {
+	 	padding-left: 0px !important;
+	 }
+	 	 .service-cam
+	 {
+	 	height: 650px;
+	 	margin-top: 100px;
+	 }
+	 /*==================================
+	   about-01
+	   ====================================*/
+	 .explore-our-world .service-explore li
+	 {
+	 	height: auto;
+	 	width: calc(100% / 3 - 7px)
+	 }
+	 .inner-banner.about-01 .extra-font h1
+	 {
+	 	mix-blend-mode:screen;
+	 }
+ 	/*==================================
+	  404 page
+	  ====================================*/
+	  .error-page
+	  {
+	  	background: linear-gradient(rgba(225,225,225,0.5), rgba(225,225,225,0.5)),url(../images/404.jpg) center / cover;
+	  }
+
+	  /*==================================
+	   about #2 page
+	   ==================================*/
+	 .boxed-services li
+	 {
+	 	padding: 20px;
+	 }
+	 .boxed-services li .service-icons
+	 {
+	 	width: 30%;
+	 	display: block;
+	 	margin-bottom: 20px;
+	 }
+	 .boxed-services li .service-describtion
+	 {
+	 	width: 100%;
+	 	margin-left: 0px;
+	 }
+
+	 /*==================================
+	   contct-01
+	   =================================*/
+	.contact-main-info
+	{
+		background: linear-gradient(rgba(225,225,225,0.9), rgba(225,225,225,0.9)),url(../images/contact-01.jpg) center / cover;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: auto !important;
+		padding: 100px 0;
+	}
+	.btn-sub-wrapper
+	{
+		margin-top: 20px;
+		display: block;
+	}
+	  /*==================================
+	   contact page  
+	  =================================*/
+	  ul.bottom-address li
+	  {
+	  	width: 100%;
+	  	float: none;
+	  }	
+	  ul.bottom-address li .service-inner-wrapper  
+	  {
+	  	width: 50%;
+	  	margin: 0 auto;
+	  }
+
+
+	/*==================================
+	  team
+	  =================================*/
+	  .team-container li
+	  {
+	  	width: calc(100% / 3);
+	  }
+
+	 /*==================================
+	   typography page
+	   ==================================*/
+	   .inline-tags
+	   {
+	   	width: 100%;
+	   }
+	   .inline-demo
+	   {
+	   	width: 100%;
+	   }
+
+   /*==================================
+	 service page
+	 ==================================*/
+	.pricing-list
+	{
+		padding-left: 0px;
+	}
+	.pricing-list ul
+	{
+		padding-left: 0px;
+	}
+	.pricing-list>li
+	{
+		width: 100%;
+		margin-right: 0px;
+		padding-bottom: 20px;
+		list-style: none;
+	}
+
+
+}
+
+/* Extra small devices (phones, less than 480px) */
+@media screen and (max-width: 480px)
+{
+	/*==================================
+		landing page
+	====================================*/
+	.home-page-varient li
+	{
+		width: 100%;
+		height: auto;
+		margin: 0;
+	}
+	.home-page-varient li a
+	{
+		position: relative;
+		width: 100%;
+	}
+	.landing-sec h1
+	{
+		font-weight: 200;
+    	font-size: 25px;
+	}
+	.home-page-varient ul
+	{
+		padding-left: 0px;
+	}
+	/*end of landing page*/
+
+	.main-photo-btn
+	{
+		font-size: 12px;
+	}
+	ul.social-icons li a
+	{
+		font-size: 13px;
+	}
+	.play-btn
+	{
+		width: 55px;
+	}
+	.banner-content
+	{
+		display: none;
+	}
+
+	/*==================================
+		image-banner-page
+	====================================*/
+	.banner-wrapper
+	{
+		margin: 0px 15px;
+	}
+	.center-img > img
+	{
+		width: 90%;
+	}
+	.center-img	.play-btn
+	{
+		position: absolute;
+		top: 44%;
+		width: 50px;
+		left: -30px;
+		right: 0;
+		margin: 0 auto;
+	}
+
+	/*==================================
+	  modern banner page
+	 ====================================*/
+	 .service-modern .service-wrapper
+	 {
+	 	width: 100%;
+	 }
+	 .service-modern .service-wrapper
+	 {
+	 	border-right: 0px;
+	 }
+	 .service-modern .service-wrapper:nth-child(3n+1)
+	 {
+	 	border-bottom: 1px solid #eee;
+	 }
+	 .service-cam .instagram_sec
+	 {
+	 	top: 25%;
+	 }
+	 .white-sec-banner
+	 {
+	 	height: 30px;
+	 }
+	 	.service-cam
+	 {
+	 	height:500px;
+	 	margin-top:0px;
+	 }
+	 /*==================================
+	   about-01
+	   ====================================*/
+	  .explore-our-world .service-explore li
+	 {
+	 	height: auto;
+	 	width: 100%;
+	 }
+	 .inner-banner.about-01 .extra-font h1
+	 {
+	 	mix-blend-mode:screen;
+	 	font-size: 40px;
+	 }
+	 .inner-banner.about-01
+	 {
+	 	height: 250px;
+	 }
+	 .extra-font h1
+	 {
+	 	font-size: 100px;
+	 }
+	 /*==================================
+	   about #2 page
+	   ==================================*/
+	 .boxed-services li
+	 {
+	 	padding: 20px;
+	 	width: 50%;
+	 }
+	 .boxed-services li .service-icons
+	 {
+	 	width: 30%;
+	 	display: block;
+	 	margin-bottom: 20px;
+	 }
+	 .boxed-services li .service-describtion
+	 {
+	 	width: 100%;
+	 	margin-left: 0px;
+	 }
+	   .boxed-services li:nth-child(3n+3)
+	  {
+	  	border-right: 1px dotted #ccc;
+	  }
+	  .boxed-services li:nth-child(3n+4),
+	  .boxed-services li:nth-child(3n+5),
+	  .boxed-services li:nth-child(3n+6)
+	  {
+	  	border-bottom: 1px dotted #ccc;
+	  }
+	  /*==================================
+		team
+		=================================*/
+	  .team-container li
+	  {
+	  	width: calc(100% / 2);
+	  }	  
+	  /*==================================
+		blog
+		=================================*/
+	  .share-blog li a 
+	  {
+		    border: 1px solid #ccc;
+		    padding: 5px 4px 1px !important;
+	  }
+	  /*==================================
+		blog-single page
+		==================================*/ 
+		.blog-text
+		{
+			padding: 10px;
+		}
+		ul.cmd-list
+		{
+			padding: 5px;	
+		}
+
+	  /*==================================
+		blog-single page
+		==================================*/ 
+		ul.bottom-address li .service-inner-wrapper  
+		{
+			width: 100%;
+			margin: 0 auto;
+		}
+
+}
+
+/* Extra small devices (phones, less than 350px) */
+	@media screen and (max-width: 350px)
+	{
+		  .service-cam
+		 {
+		 	height:350px;
+		 	margin-top:0px;
+		 }
+	}

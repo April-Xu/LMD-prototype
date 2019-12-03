@@ -1,0 +1,42 @@
+.project-introduction .row,
+.project-journey .row {
+    margin: 30px 0px 20px 0px;
+}
+
+.timeline .row{
+    padding: 0px 30px 0px 30px;
+    margin: 0px 30px 0px 30px;
+}
+
+.timeline .pic .col-lg-2,
+.timeline .pic .col-lg-1 {
+    min-height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.timeline .pic .col-lg-2 img,
+.timeline .pic .col-lg-1 img{
+    align-self: center;
+    border-radius: 8%;
+}
+
+.timeline .fade-mode {
+    overflow: unset;
+    -webkit-box-shadow: unset;
+    box-shadow: unset;
+}
+
+.report-btn {
+    margin: 50px 0px 20px 0px;
+    background-color: #4377F1;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    color: white;
+    width: 30%;
+    line-height: 50px;
+    font-size: 17px;
+}

@@ -1,0 +1,1377 @@
+/*-------------------------------------------------------------------------------------
+Theme Name: Photomania
+Theme URI:  
+Version:    1.0
+Author: TrueCoder
+-------------------------------------------------------------------------------------*/
+/**
+*****************************************
+@File: photmania main page Styles
+
+* This file contains the styling for the actual theme, this
+is the file you need to edit to change the look of the
+theme.*/
+
+/*
+content table
+---------------------------------------------
+01.FONT USED
+02.BASIC COMMON STYLE
+03.TYPOGRAPHY
+04.BLOCKS
+05.GENERAL UI
+06. SOCIAL ICONS
+07. PAGE LOADER
+08. HEADER STYLE
+09. BANNER STYLE
+
+
+/*==================================
+    01.FONT USED
+====================================*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
+
+/*==================================
+    02.BASIC COMMON STYLE
+====================================*/
+body,
+html,
+.wrapper {
+    height: 100%
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #fff;
+}
+header {
+    z-index: 999;
+}
+
+/*==================================
+    03.TYPOGRAPHY
+====================================*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 20px;
+}
+a:hover,
+a:focus {
+    text-decoration: none;
+    outline: none;
+}
+p {
+    font-size: 14px;
+    color: #444;
+    font-weight: 300;
+    line-height: 25px;
+}
+input:focus {
+    outline-width: 0px !important;
+    -webkit-appearance: none;
+}
+ul,
+ol {
+    padding-left: 0px;
+    margin: 0px;
+}
+mark {
+    background: #ddd;
+    color: #555;
+    padding: 0 5px;
+}
+del {
+    opacity: .6;
+}
+
+/*==================================
+    04.BLOCKS
+====================================*/
+
+.spl-quote {
+    background: #eee;
+    padding: 10px 20px;
+    border-left: 5px solid #000;
+}
+.custom-list li {
+    list-style: none;
+    position: relative;
+}
+.custom-list li:before {
+    content: "\e65d";
+    font-family: 'themify';
+    position: absolute;
+    top: 0;
+    left: -20px;
+}
+.landing-page-cover
+{
+    height: 50% !important;
+    text-align: center;
+    position: relative;
+}
+/*==================================
+    05.GENERAL UI
+====================================*/
+
+.no-border {
+    border: none !important;
+}
+.no-margin {
+    margin: 0px !important;
+}
+.no-shadow {
+    box-shadow: none !important
+}
+.modern-margin {
+    margin: 0 60px;
+}
+.justify {
+    text-align: justify;
+}
+.dark {
+    background: #000 !important;
+}
+.dark-footer {
+    background: #101010;
+    ;
+}
+.stay-off-white {
+    background: #f5f5f5;
+}
+.b-1 {
+    border: 1px solid #ececec;
+}
+.btb-1 {
+    border-top: 1px solid #ececec;
+    border-bottom: 1px solid #ececec;
+}
+.bt-1 {
+    border-top: 1px solid #ececec;
+}
+.bb-1 {
+    border-bottom: 1px solid #ececec;
+}
+.ptb-10 {
+    padding: 10px 0 !important;
+}
+.ptb-20 {
+    padding: 20px 0 !important;
+}
+.ptb-30 {
+    padding: 30px 0 !important;
+}
+.ptb-40 {
+    padding: 40px 0 !important;
+}
+.ptb-50 {
+    padding: 50px 0 !important;
+}
+.ptb-60 {
+    padding: 60px 0 !important;
+}
+.ptb-70 {
+    padding: 70px 0 !important;
+}
+.ptb-80 {
+    padding: 80px 0 !important;
+}
+.ptb-90 {
+    padding: 90px 0 !important;
+}
+.ptb-100 {
+    padding: 100px 0 !important;
+}
+.pt-100 {
+    padding-top: 100px !important;
+}
+.pt-50 {
+    padding-top: 50px !important;
+}
+.pb-50 {
+    padding-bottom: 50px !important;
+}
+.pb-100 {
+    padding-bottom: 100px !important;
+}
+.no-padding {
+    padding: 0px !important;
+}
+.clean-padding {
+    padding: 150px 0 50px !important;
+}
+.full-height {
+    height: 100%;
+}
+.white-text {
+    color: #fff
+}
+.shadow {
+    box-shadow: 8px 10px 11px 0px #ccc;
+}
+/*----------------------
+  05.1 MARGIN
+  ----------------------*/
+
+.no-margin {
+    margin: 0 !important;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.mb-70 {
+    margin-bottom: 70px;
+}
+.mtb-30 {
+    margin: 30px 0;
+}
+.mtb-50 {
+    margin: 50px 0;
+}
+.mtb-70 {
+    margin: 70px 0;
+}
+
+/*----------------------
+  05.2 PHOTOMANIA BUTTONS
+  ----------------------*/
+
+.generic-btn {
+    padding: 10px 25px;
+    font-weight: 300;
+    background: transparent;
+    outline: none !important;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+}
+.main-photo-btn {
+    color: #fff;
+    font-size: 16px;
+    border-radius: 0px;
+    padding: 0;
+    border: none;
+    line-height: 42px;
+    width: 130px;
+    height: 40px;
+    text-transform: uppercase;
+}
+.main-photo-btn:hover {
+    color: #fff;
+}
+.main-photo-btn span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.main-photo-btn:before,
+.main-photo-btn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: #fff;
+    transition: all 0.3s ease;
+}
+.main-photo-btn:before {
+    height: 50%;
+    width: 1px;
+}
+.main-photo-btn:after {
+    width: 20%;
+    height: 1px;
+}
+.main-photo-btn:hover:before {
+    height: 100%;
+}
+.main-photo-btn:hover:after {
+    width: 100%;
+}
+.main-photo-btn span:before,
+.main-photo-btn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: #fff;
+    transition: all 0.3s ease;
+}
+.main-photo-btn span:before {
+    width: 1px;
+    height: 50%;
+}
+.main-photo-btn span:after {
+    width: 20%;
+    height: 1px;
+}
+.main-photo-btn:hover span:before {
+    height: 100% !important;
+}
+.main-photo-btn:hover span:after {
+    width: 100%;
+}
+.black-btn {
+    color: #000;
+}
+.main-photo-btn.black-btn:hover {
+    color: #000;
+}
+.main-photo-btn.black-btn:before,
+.main-photo-btn.black-btn:after {
+    background: #000;
+}
+.main-photo-btn.black-btn span:before,
+.main-photo-btn.black-btn span:after {
+    background: #000;
+}
+/*sucess btn*/
+
+.success-btn {
+    color: #72ba01;
+}
+.main-photo-btn.success-btn:hover {
+    color: #72ba01;
+}
+.main-photo-btn.success-btn:before,
+.main-photo-btn.success-btn:after {
+    background: #72ba01;
+}
+.main-photo-btn.success-btn span:before,
+.main-photo-btn.success-btn span:after {
+    background: #72ba01;
+}
+/*info btn*/
+
+.info-btn {
+    color: #0e97ff;
+}
+.main-photo-btn.info-btn:hover {
+    color: #0e97ff;
+}
+.main-photo-btn.info-btn:before,
+.main-photo-btn.info-btn:after {
+    background: #0e97ff;
+}
+.main-photo-btn.info-btn span:before,
+.main-photo-btn.info-btn span:after {
+    background: #0e97ff;
+}
+/*warning btn*/
+
+.warning-btn {
+    color: #ac8e00;
+}
+.main-photo-btn.warning-btn:hover {
+    color: #ac8e00;
+}
+.main-photo-btn.warning-btn:before,
+.main-photo-btn.warning-btn:after {
+    background: #ac8e00;
+}
+.main-photo-btn.warning-btn span:before,
+.main-photo-btn.warning-btn span:after {
+    background: #ac8e00;
+}
+/*warning btn*/
+
+.danger-btn {
+    color: #ff4954;
+}
+.main-photo-btn.danger-btn:hover {
+    color: #ff4954;
+}
+.main-photo-btn.danger-btn:before,
+.main-photo-btn.danger-btn:after {
+    background: #ff4954;
+}
+.main-photo-btn.danger-btn span:before,
+.main-photo-btn.danger-btn span:after {
+    background: #ff4954;
+}
+/*----------------------
+  05.3 GHOST BUTTONS
+  ----------------------*/
+
+.ghost {
+    border-width: 1px;
+    border-style: solid;
+}
+.primary-ghost {
+    border-color: #fff;
+    color: #fff;
+}
+.info-ghost {
+    border-color: #0e97ff;
+    color: #0e97ff;
+}
+.warning-ghost {
+    border-color: #ac8e00;
+    color: #ac8e00;
+}
+.danger-ghost {
+    border-color: #ff4954;
+    color: #ff4954;
+}
+.success-ghost {
+    border-color: #72ba01;
+    color: #72ba01;
+}
+/*----------------------
+  05.4 FILL COLOR BUTTONS
+  ----------------------*/
+
+.primary-fill {
+    background: #fff;
+    color: #000;
+}
+.info-fill {
+    background: #0e97ff;
+    color: #fff;
+}
+.warning-fill {
+    background: #ac8e00;
+    color: #fff;
+}
+.danger-fill {
+    background: #ff4954;
+    color: #fff;
+}
+.success-fill {
+    background: #72ba01;
+    color: #fff;
+}
+.wht-hover:hover {
+    color: #fff;
+}
+/*----------------------
+  05.5 ROUND BUTTONS
+  ---------------------*/
+
+.round-btn {
+    width: 50px;
+    height: 50px;
+    display: block;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.black-da-btn {
+    border-radius: 0px;
+    background: #000;
+    color: #fff;
+    border: 0px;
+}
+.black-btn:hover,
+.black-btn:focus {
+    color: #fff;
+}
+a.social-btn {
+    max-width: 300px;
+    padding: 10px 0;
+    color: #fff;
+    display: block;
+    margin-bottom: 5px !important;
+    border-radius: 0px;
+}
+a.social-btn:hover {
+    color: #fff;
+}
+a.social-btn span {
+    padding-right: 5px;
+}
+a.social-btn.facebook-btn {
+    background: #3b5998;
+}
+a.social-btn.google-btn {
+    background: #ea4335;
+}
+a.social-btn.twitter-btn {
+    background: #1da1f2;
+}
+
+/*----------------------
+  05.6 BUTTONS SIZE
+  ---------------------*/
+.xs-btn {
+    width: 80px;
+    height: 20px;
+    font-size: 10px;
+    line-height: 22px;
+}
+.sm-btn {
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    line-height: 30px;
+}
+.md-btn {
+    width: 140px;
+    height: 55px;
+    font-size: 18px;
+    line-height: 55px;
+}
+.lg-btn {
+    width: 180px;
+    height: 65px;
+    font-size: 22px;
+    line-height: 63px;
+}
+
+/*end of buttons*/
+
+/*-----------------------
+  05.7 INPUT STYLE
+  ----------------------*/
+
+.default-form input {
+    width: 100%;
+    border: 1px solid #000;
+}
+/*small input*/
+
+.sm-form label {
+    font-size: 12px;
+    font-weight: 300;
+}
+.sm-form input {
+    padding: 5px 20px;
+    font-size: 12px;
+    height: 30px;
+}
+.sm-form .select2-container {
+    width: 100% !important;
+}
+.sm-form .select2-selection {
+    border-radius: 0px;
+    border: 1px solid #000;
+    height: 30px;
+    font-size: 12px;
+}
+.sm-form textarea {
+    width: 100%;
+    padding: 10px 20px 3px;
+    font-weight: 300;
+    resize: none;
+}
+/*normal-input*/
+.normal-form label.error
+{
+    padding-top: 0px;
+}
+#mce-success-response
+{
+    color: #fff;
+    position: absolute;
+    font-size: 12px;
+    padding-top: 7px;
+}
+.normal-form label {
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+.normal-form input {
+    padding: 5px 20px;
+    font-size: 14px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0);
+}
+.normal-form .select2-container {
+    width: 100% !important;
+}
+.normal-form .select2-selection {
+    border-radius: 0px;
+    border: 1px solid #000;
+    height: 40px;
+}
+.normal-form .select2-selection .select2-selection__rendered {
+    padding-top: 7px;
+}
+.normal-form .select2-selection .select2-selection__arrow {
+    margin-top: 7px;
+}
+.normal-form textarea {
+    width: 100%;
+    padding: 10px 20px 3px;
+    font-weight: 300;
+    resize: none;
+    background: rgba(0, 0, 0, 0);
+    border: 1px solid #000;
+}
+/*large-input*/
+
+.lg-form label {
+    font-size: 16px;
+    font-weight: 300;
+    padding-top: 20px;
+}
+.lg-form input {
+    padding: 5px 20px;
+    font-size: 16px;
+    height: 50px;
+}
+.lg-form .select2-container {
+    width: 100% !important;
+}
+.lg-form .select2-selection {
+    border-radius: 0px;
+    border: 1px solid #000;
+    height: 50px;
+    font-size: 16px;
+}
+.lg-form .select2-selection .select2-selection__rendered {
+    padding-top: 10px;
+}
+.lg-form .select2-selection .select2-selection__arrow {
+    margin-top: 10px;
+}
+.dark input,
+.dark textarea,
+.dark .select2-container--default .select2-selection--single {
+    background: none;
+    border: 1px solid #fff;
+    color: #fff;
+}
+.dark .select2-container--default .select2-selection--single .select2-selection__rendered,
+{
+    color: #fff;
+}
+/*end of input style*/
+
+/*-----------------------
+  05.8 PAGINATION STYLE
+  ----------------------*/
+
+.pagination > li:first-child > a,
+.pagination > li:first-child > span,
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {
+    border-radius: 0px !important;
+}
+.pagination li a {
+    color: #000;
+    transition: .2s ease-in-out;
+}
+.pagination li a:hover {
+    background: #000;
+    color: #fff;
+}
+/*end of pagination*/
+
+/*-----------------------
+  05.9 CHECKBOX
+  ----------------------*/
+
+.checkbox-container {
+    color: #000;
+    font-size: 15px;
+    letter-spacing: .5px;
+    color: #000;
+    display: flex;
+    align-items: center;
+}
+.checkbox-container .input-checkbox {
+    position: relative;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    transition: all 250ms ease;
+}
+.checkbox-container .input-checkbox input[type="checkbox"] {
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    cursor: pointer;
+    opacity: 0;
+    transition: all 250ms ease;
+}
+.checkbox-container .input-checkbox input[type="checkbox"] + .checkbox:before {
+    position: absolute;
+    left: 4px;
+    bottom: 8px;
+    width: 18px;
+    height: 18px;
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    transition: all 250ms ease;
+    /* Support for all WebKit browsers. */
+    
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    
+    text-rendering: optimizeLegibility;
+    /* Support for Firefox. */
+    
+    -moz-osx-font-smoothing: grayscale;
+    /* Support for IE. */
+    
+    font-feature-settings: 'liga';
+    z-index: 1;
+}
+.checkbox-container .input-checkbox input[type="checkbox"] + .checkbox:before {
+    content: "\e835";
+    color: #000;
+    transition: all 250ms ease;
+}
+.checkbox-container .input-checkbox input[type="checkbox"]:checked + .checkbox:before {
+    content: "\e834";
+    color: #000;
+    transition: all 250ms ease;
+}
+.checkbox-container .input-checkbox input[type="checkbox"]:disabled + .checkbox:before {
+    color: #ccc;
+}
+.checkbox-container label {
+    cursor: pointer;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+}
+label.input-checkbox input[type="checkbox"][disabled]:before {
+    color: #cccccc !important;
+}
+/*-----------------------
+  05.10 RADIO-BUTTON
+  ----------------------*/
+
+.radio-container {
+    margin: 10px;
+}
+.radio-container input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+}
+.radio-container label {
+    font-weight: 300;
+}
+.radio-container input[type="radio"] + .radio-label:before {
+    content: '';
+    background: #f4f4f4;
+    border-radius: 100%;
+    border: 1px solid #000;
+    display: inline-block;
+    width: 1.4em;
+    height: 1.4em;
+    position: relative;
+    top: 0;
+    margin-right: 1em;
+    vertical-align: top;
+    cursor: pointer;
+    text-align: center;
+    transition: all 250ms ease;
+}
+.radio-container input[type="radio"]:checked + .radio-label:before {
+    background-color: #000;
+    box-shadow: inset 0 0 0 4px #f4f4f4;
+}
+.radio-container input[type="radio"]:focus + .radio-label:before {
+    outline: none;
+    border-color: #000;
+}
+.radio-container input[type="radio"]:disabled + .radio-label:before {
+    border-color: #b4b4b4;
+    background: #b4b4b4;
+}
+.radio-container input[type="radio"] + .radio-label:empty:before {
+    margin-right: 0;
+}
+/*end of radio button*/
+
+/*-----------------------
+  05.11 MODEL CONTENT
+  ----------------------*/
+
+.modal-content {
+    border-radius: 0px;
+}
+
+/*-----------------------
+  05.12 COLLAPSE
+  ----------------------*/
+
+.custom-collapse .panel-group .panel {
+    border-radius: 0px;
+}
+.custom-collapse .panel-group .panel + .panel {
+    margin-top: 0px;
+    border-radius: 0px;
+    background: none;
+    border-top: 0px;
+}
+.custom-collapse .panel-default > .panel-heading {
+    background: none;
+    padding: 20px;
+}
+.custom-collapse .panel-group .panel-heading + .panel-collapse > .panel-body {
+    border-top: 0px;
+    padding: 20px;
+    line-height: 25px;
+}
+.custom-collapse .panel-default > .panel-heading .panel-title a span {
+    padding-right: 20px;
+    width: 35px;
+    transition: .2s linear;
+    width: 5%;
+    height: 15px;
+    float: left;
+}
+
+/*-----------------------
+  05.13 TAB STYLE
+  ----------------------*/
+
+
+.tab-section {
+    text-align: center;
+}
+.tab-section .nav-tabs {
+    border-bottom: 0px;
+}
+.tab-section .nav-tabs > li {
+    float: none;
+    display: inline-block;
+}
+.tab-section .nav-tabs > li > a {
+    background: #000;
+    border-radius: 0px;
+    color: #fff;
+}
+.tab-section .tab-content {
+    padding: 50px 0
+}
+
+/*-----------------------
+  05.14 FLASH ANIMATION
+  ----------------------*/
+/*--------------------mouse animation-----------------------------*/
+
+.mouse {
+    position: relative;
+    border: 2px solid #fff;
+    width: 30px;
+    height: 50px;
+    background-size: 100% 100%;
+    border-radius: 100px;
+    background-size: 225%;
+    animation: nudgeMouse 5s ease-out infinite;
+    margin: 0 auto;
+}
+.mouse:before,
+.mouse:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+.mouse:before {
+    width: 46px;
+    height: 82px;
+    border-radius: 100px;
+}
+.mouse:after {
+    background-color: #ffffff;
+    width: 7px;
+    height: 7px;
+    border-radius: 100%;
+    animation: trackBallSlide 5s linear infinite;
+}
+@keyframes trackBallSlide {
+    0% {
+        opacity: 1;
+        transform: scale(1) translateY(-20px);
+    }
+    6% {
+        opacity: 1;
+        transform: scale(0.9) translateY(5px);
+    }
+    14% {
+        opacity: 0;
+        transform: scale(0.4) translateY(40px);
+    }
+    15%,
+    19% {
+        opacity: 0;
+        transform: scale(0.4) translateY(-20px);
+    }
+    28%,
+    29.99% {
+        opacity: 1;
+        transform: scale(1) translateY(-20px);
+    }
+    30% {
+        opacity: 1;
+        transform: scale(1) translateY(-20px);
+    }
+    36% {
+        opacity: 1;
+        transform: scale(0.9) translateY(5px);
+    }
+    44% {
+        opacity: 0;
+        transform: scale(0.4) translateY(40px);
+    }
+    45%,
+    49% {
+        opacity: 0;
+        transform: scale(0.4) translateY(-20px);
+    }
+    58%,
+    59.99% {
+        opacity: 1;
+        transform: scale(1) translateY(-20px);
+    }
+    60% {
+        opacity: 1;
+        transform: scale(1) translateY(-20px);
+    }
+    66% {
+        opacity: 1;
+        transform: scale(0.9) translateY(5px);
+    }
+    74% {
+        opacity: 0;
+        transform: scale(0.4) translateY(40px);
+    }
+    75%,
+    79% {
+        opacity: 0;
+        transform: scale(0.4) translateY(-20px);
+    }
+    88%,
+    100% {
+        opacity: 1;
+        transform: scale(1) translateY(-20px);
+    }
+}
+@keyframes nudgeMouse {
+    0% {
+        transform: translateY(0);
+    }
+    20% {
+        transform: translateY(8px);
+    }
+    30% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(8px);
+    }
+    60% {
+        transform: translateY(0);
+    }
+    80% {
+        transform: translateY(8px);
+    }
+    90% {
+        transform: translateY(0);
+    }
+}
+
+/*--------------------arrow down animation-----------------------------*/
+
+.animation-wrapper {
+    height: 100px;
+}
+.arrow-animation {
+    animation: arrow 2s infinite;
+    text-align: center;
+}
+.arrow-animation a {
+    position: relative;
+}
+.arrow-animation a:before {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-top: 5px solid #fff;
+    border-right: 5px solid #fff;
+    transform: rotate(135deg);
+}
+@keyframes arrow {
+    0%, 100% {
+        transform: translateY(50px);
+    }
+    50% {
+        transform: translateY(20px);
+    }
+}
+/*end of flash animations*/
+
+/*--------------------three arrow animation-----------------------------*/
+
+.scroll-arrow {
+    width: 12px;
+    height: 12px;
+    transform: rotate(45deg);
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    animation: arrow-wave 1s infinite;
+    animation-direction: alternate;
+    margin: 0 auto;
+}
+.scroll-arrow:nth-child(1) {
+    animation-delay: 0.1s;
+}
+.scroll-arrow:nth-child(2) {
+    animation-delay: 0.2s;
+}
+.scroll-arrow:nth-child(3) {
+    animation-delay: 0.3s;
+}
+@keyframes arrow-wave {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: .5;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+/*end of three arrow animation*/
+
+/*-----------------------
+  05.15 COMMON STYLE
+  ----------------------*/
+.about-content a {
+    margin-top: 20px;
+}
+.caption-head {
+    padding: 60px 0
+}
+.caption-head h2 {
+    font-weight: 200;
+    text-transform: capitalize;
+}
+.caption-head h2 span {
+    font-weight: 500;
+}
+.more-width-btn {
+    width: 180px;
+}
+.all-btn {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 0px;
+}
+.dark-bg {
+    background: #000;
+    color: #fff;
+}
+.dark-bg:hover {
+    color: #fff;
+}
+.light-bg {
+    background: #fff;
+    color: #000;
+}
+
+/*==================================
+    06. SOCIAL ICONS
+====================================*/
+
+ul.social-icons li {
+    display: inline-block;
+}
+ul.social-icons li a {
+    font-size: 18px;
+    padding: 10px;
+    color: #aaa;
+    display: block;
+    transition: ease-in .2s;
+}
+/*-----------------------
+  06.1 HOVER ICONS
+  ----------------------*/
+
+ul.social-icons.hover-icons li a:hover {
+    color: #000;
+}
+/*-----------------------
+  06.2 BRAND HOVER ICONS
+  ----------------------*/
+
+ul.social-icons.brand-color-icons li a.fb,
+ul.social-icons.brand-hover-icons li a.fb:hover {
+    color: #3b5998;
+}
+ul.social-icons.brand-color-icons li a.google,
+ul.social-icons.brand-hover-icons li a.google:hover {
+    color: #d34836;
+}
+ul.social-icons.brand-color-icons li a.twr,
+ul.social-icons.brand-hover-icons li a.twr:hover {
+    color: #1dcaff;
+}
+ul.social-icons.brand-color-icons li a.lin,
+ul.social-icons.brand-hover-icons li a.lin:hover {
+    color: #0e76a8;
+}
+ul.social-icons.brand-color-icons li a.pin,
+ul.social-icons.brand-hover-icons li a.pin:hover {
+    color: #C92228;
+}
+ul.social-icons.brand-color-icons li a.vim,
+ul.social-icons.brand-hover-icons li a.vim:hover {
+    color: #162221;
+}
+ul.social-icons.brand-color-icons li a.sky,
+ul.social-icons.brand-hover-icons li a.sky:hover {
+    color: #12A5F4;
+}
+ul.social-icons.brand-color-icons li a.yt,
+ul.social-icons.brand-hover-icons li a.yt:hover {
+    color: #c4302b;
+}
+ul.social-icons.brand-color-icons li a.andro,
+ul.social-icons.brand-hover-icons li a.andro:hover {
+    color: #34af23;
+}
+ul.social-icons.brand-color-icons li a.flick,
+ul.social-icons.brand-hover-icons li a.flick:hover {
+    color: #ff0084;
+}
+ul.social-icons.brand-color-icons li a.insta,
+ul.social-icons.brand-hover-icons li a.insta:hover {
+    color: #8a3ab9;
+}
+ul.social-icons.brand-color-icons li a.git,
+ul.social-icons.brand-hover-icons li a.git:hover {
+    color: #333;
+}
+ul.social-icons.brand-color-icons li a.sht,
+ul.social-icons.brand-hover-icons li a.sht:hover {
+    color: #acde5e;
+}
+
+/*-----------------------
+  06.3 SIMPLE BORDER ICONS
+  ----------------------*/
+ul.social-icons.simple-border-icons li a {
+    border: 1px solid #ccc;
+    line-height: 0px;
+}
+/*-----------------------
+  06.4 ROUND BORDER ICONS
+  ----------------------*/
+
+ul.social-icons.round-border-icons li a {
+    border: 1px solid #ccc;
+    line-height: 0px;
+    border-radius: 50px;
+}
+/*-----------------------
+  06.5 SIMPLE BG ICONS
+  ----------------------*/
+
+ul.social-icons.simple-bg-icons li a {
+    color: #000;
+    border: 1px solid #000;
+}
+ul.social-icons.simple-bg-icons li a:hover {
+    background: #000;
+    color: #fff;
+}
+/*icon-sm*/
+
+ul.social-icons.black-icon li a {
+    color: #000;
+}
+
+/*-----------------------
+  06.6 BUTTON SIZE
+  ----------------------*/
+
+ul.social-icons.icon-sm li a {
+    font-size: 14px;
+}
+ul.social-icons.icon-md li a {
+    font-size: 20px;
+}
+ul.social-icons.icon-lg li a {
+    font-size: 23px;
+}
+
+/*==================================
+    07. PAGE LOADER
+====================================*/
+
+#page-loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 99999;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*==================================
+   08. HEADER STYLE
+====================================*/
+
+/*-----------------------
+  08.1 MAIN HEADER
+  ----------------------*/
+
+.main-header .navbar-default.navbar-transparent {
+    background: rgba(255, 255, 255, 0) !important;
+    background: none;
+    border: 0 !important;
+    transition: .2s linear;
+}
+.main-header .navbar-default.navbar-fixed {
+    transition: .5s linear;
+    z-index: 1000;
+}
+.main-header .navbar-default.navbar-transparent ul.nav > li > a {
+    padding: 45px 15px !important;
+}
+.main-header .navbar-default ul.nav li a {
+    font-size: 14px;
+    color: #000 !important;
+    text-transform: capitalize;
+    font-weight: 400 !important;
+    transition: .5s linear;
+}
+.main-header .navbar-default.navbar-transparent ul.nav li a {
+    color: #fff !important;
+    transition: .5s linear;
+}
+.main-header .navbar-brand {
+    width: 210px;
+    transition: .5s linear;
+}
+.main-header .navbar-transparent .navbar-brand {
+    width: 280px;
+    transition: .5s linear;
+}
+.main-header nav.navbar.bootsnav .navbar-toggle {
+    background: none;
+    color: #000;
+}
+.navbar-transparent .nav li.dropdown ul.dropdown-menu li a {
+    color: #000 !important;
+}
+/*-----------------------
+  08.2 ELEMENT HEADING
+  ----------------------*/
+
+.element-head h3 span {
+    font-weight: 200;
+}
+.tiny-head {
+    padding: 20px 0;
+    overflow: hidden;
+}
+.tiny-head p {
+    font-size: 10px;
+    color: #666;
+    display: inline-block;
+    position: relative;
+}
+.tiny-head p:before {
+    position: absolute;
+    width: 100px;
+    height: 1px;
+    background: #ccc;
+    left: 110%;
+    top: 50%;
+    content: "";
+}
+.tiny-head p:after {
+    position: absolute;
+    width: 100px;
+    height: 1px;
+    background: #ccc;
+    right: 110%;
+    top: 50%;
+    content: "";
+}
+/*end of main-header*/
+
+/*==================================
+   09. BANNER STYLE
+====================================*/
+
+/*-----------------------
+  09.1 SIMPLE BANNER 
+  ----------------------*/
+
+.simple-inner-banner {
+    background: linear-gradient(to left, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), linear-gradient(to right, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url("../images/inner-1.jpg")no-repeat top center / cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    s
+}
+.simple-inner-banner h1 {
+    display: block;
+    color: #fff;
+    width: 100%;
+    font-weight: 300 !important;
+}
+.simple-inner-banner ul {
+    display: block;
+    margin-top: 10px;
+}
+.simple-inner-banner ul li {
+    display: inline-block;
+}
+.simple-inner-banner ul li:before {
+    content: "-";
+    color: #fff;
+    padding-right: 5px;
+}
+.simple-inner-banner ul li:first-child:before {
+    content: "";
+}
+.simple-inner-banner ul li a {
+    color: #fff;
+}
+/*end of simple banner*/
