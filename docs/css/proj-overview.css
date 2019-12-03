@@ -1,6 +1,23 @@
-.project-introduction .row,
-.project-journey .row {
-    margin: 30px 0px 20px 0px;
+.h4 {
+    font-weight: bold;
+}
+
+.project-introduction,
+.project-journey {
+    padding-top: 30px;
+}
+
+.project-introduction .container,
+.project-journey .container {
+    padding: 40px;
+    background: #FAFAFA;
+    box-shadow: 0px 0px 10px rgba(99, 123, 150, 0.2);
+    border-radius: 20px;
+}
+
+.timeline .pic{
+    padding: 30px 30px 0px 30px;
+    margin: 0px 30px 0px 30px;
 }
 
 .timeline .row{
@@ -30,7 +47,7 @@
 }
 
 .report-btn {
-    margin: 50px 0px 20px 0px;
+    margin: 50px 0px 60px 0px;
     background-color: #4377F1;
     box-sizing: border-box;
     border-radius: 10px;

@@ -13,15 +13,22 @@
 }
 
 h4 {
-    color: #4377F1;
     font-weight: bold;
 }
-.head-card .row{
-    margin: 30px 0px 10px 0px;
+
+/*.head-card .row{*/
+    /*margin: 30px 0px 10px 0px;*/
+/*}*/
+
+/*.card .row{*/
+    /*margin: 20px 00px 10px 0px;*/
+/*}*/
+.goal {
+    padding: 20px 0px 20px 0px;
 }
 
-.card .row{
-    margin: 20px 00px 10px 0px;
+.reflection-editor .row {
+    padding-top: 20px;
 }
 
 #editor {
@@ -83,7 +90,7 @@ h4 {
 }
 
 .continue-btn {
-    margin: 90px 0px 20px 0px;
+    margin: 90px 0px 60px 0px;
     background-color: #4377F1;
     box-sizing: border-box;
     border-radius: 10px;
