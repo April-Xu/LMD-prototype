@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b57ecac0-0121-42a3-8452-29b447b0a691" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/docs/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/1mind-palace.html" afterPath="$PROJECT_DIR$/docs/1mind-palace.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,48 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1proj-overview.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/1proj-overview.html">
+      <file leaf-file-name="1mind-palace.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/1mind-palace.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="406" column="72" lean-forward="false" selection-start-line="406" selection-start-column="72" selection-end-line="406" selection-end-column="72" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#3;n#div#5;n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#5;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="1779" column="1" lean-forward="true" selection-start-line="1759" selection-start-column="0" selection-end-line="1779" selection-end-column="1" />
-              <folding>
-                <marker date="1575514408268" expanded="true" signature="35840:35843" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="4" column="16654" lean-forward="false" selection-start-line="4" selection-start-column="16654" selection-end-line="4" selection-end-column="16654" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1cover.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/1cover.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="162" column="10" lean-forward="true" selection-start-line="162" selection-start-column="10" selection-end-line="162" selection-end-column="10" />
+            <state relative-caret-position="240">
+              <caret line="116" column="10" lean-forward="false" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -65,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cover.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/css/cover.css">
+      <file leaf-file-name="1profile-all-proj.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/1profile-all-proj.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="724">
+              <caret line="102" column="9" lean-forward="false" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -88,7 +51,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>inner-content</find>
       <find>wedd</find>
       <find>wedding</find>
       <find>filter-</find>
@@ -118,6 +80,7 @@
       <find>image</find>
       <find>header</find>
       <find>inner-banner</find>
+      <find>font-family</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -161,7 +124,6 @@
         <option value="$PROJECT_DIR$/mainfile/1report.html" />
         <option value="$PROJECT_DIR$/mainfile/1cover.html" />
         <option value="$PROJECT_DIR$/docs/1report.html" />
-        <option value="$PROJECT_DIR$/docs/1mind-palace.html" />
         <option value="$PROJECT_DIR$/docs/1profile-all-proj.html" />
         <option value="$PROJECT_DIR$/docs/js/reflection.js" />
         <option value="$PROJECT_DIR$/docs/1reflection.html" />
@@ -177,6 +139,7 @@
         <option value="$PROJECT_DIR$/docs/css/cover.css" />
         <option value="$PROJECT_DIR$/docs/1proj-overview.html" />
         <option value="$PROJECT_DIR$/docs/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/docs/1mind-palace.html" />
       </list>
     </option>
   </component>
@@ -260,26 +223,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.1mind-palace.html">
     <configuration name="1after-reflection.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1after-reflection.html" />
     <configuration name="1cover.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1cover.html" />
+    <configuration name="1mind-palace.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1mind-palace.html" />
     <configuration name="1proj-overview.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1proj-overview.html" />
-    <configuration name="1reflection.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/1reflection.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LMD prototype/docs/index.html" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.1after-reflection.html (1)" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.1reflection.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.1proj-overview.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.1proj-overview.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.1mind-palace.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.1after-reflection.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.1proj-overview.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.1reflection.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.1mind-palace.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.1after-reflection.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.1proj-overview.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.1cover.html" />
       </list>
     </recent_temporary>
   </component>
@@ -311,12 +274,12 @@
       <workItem from="1574912402880" duration="736000" />
       <workItem from="1574979980901" duration="39047000" />
       <workItem from="1575357136539" duration="11948000" />
-      <workItem from="1575510663507" duration="5073000" />
+      <workItem from="1575510663507" duration="5477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87989000" />
+    <option name="totallyTimeSpent" value="88393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -419,26 +382,6 @@
     <entry file="file://$PROJECT_DIR$/docs/1report.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
-          <caret line="102" column="9" lean-forward="false" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/1mind-palace.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="102" column="9" lean-forward="false" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/1profile-all-proj.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
           <caret line="102" column="9" lean-forward="false" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -581,6 +524,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/1proj-overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="406" column="72" lean-forward="false" selection-start-line="406" selection-start-column="72" selection-end-line="406" selection-end-column="72" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#3;n#div#5;n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#5;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="4" column="16654" lean-forward="false" selection-start-line="4" selection-start-column="16654" selection-end-line="4" selection-end-column="16654" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="1779" column="1" lean-forward="true" selection-start-line="1759" selection-start-column="0" selection-end-line="1779" selection-end-column="1" />
+          <folding>
+            <marker date="1575514408268" expanded="true" signature="35840:35843" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/1cover.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -599,33 +573,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/1proj-overview.html">
+    <entry file="file://$PROJECT_DIR$/docs/1mind-palace.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="406" column="72" lean-forward="false" selection-start-line="406" selection-start-column="72" selection-end-line="406" selection-end-column="72" />
+        <state relative-caret-position="240">
+          <caret line="116" column="10" lean-forward="false" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#5;n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#5;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/css/style.css">
+    <entry file="file://$PROJECT_DIR$/docs/1profile-all-proj.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="1779" column="1" lean-forward="true" selection-start-line="1759" selection-start-column="0" selection-end-line="1779" selection-end-column="1" />
-          <folding>
-            <marker date="1575514408268" expanded="true" signature="35840:35843" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="4" column="16654" lean-forward="false" selection-start-line="4" selection-start-column="16654" selection-end-line="4" selection-end-column="16654" />
+        <state relative-caret-position="724">
+          <caret line="102" column="9" lean-forward="false" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
           <folding />
         </state>
       </provider>
