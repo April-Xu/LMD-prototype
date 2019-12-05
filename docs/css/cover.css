@@ -16,7 +16,7 @@
 }
 
 .customization .container{
-    padding-left: 40px;
+    padding: 40px;
     background: #FAFAFA;
     box-shadow: 0px 0px 10px rgba(99, 123, 150, 0.2);
     border-radius: 20px;

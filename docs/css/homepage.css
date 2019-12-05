@@ -16,3 +16,8 @@
 .more-more-width-btn {
     width: 280px;
 }
+
+#item1, #item2, #item3, #item4 {
+    color: white !important;
+    transition: .5s linear;
+}
