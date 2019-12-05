@@ -944,7 +944,6 @@ nav.bootsnav.brand-center.small-logo .navbar-collapse .col-half.right {
 ====================================*/
 
 .inner-banner.about-01 {
-    background: #4377F1;
     height: 120px;
     display: flex;
     align-items: center;
@@ -1759,7 +1758,7 @@ section {
 }
 
 body {
-    font-family: Poppins;
+    font-family: Poppins !important;
     font-style: normal;
     font-weight: bold;
     color: #3E4245;
